@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to my Projects 👋
 
-<!--
-**Mauzoom03/Mauzoom03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently studying at UpgradeHub Academy .
+- 👯 I’m looking to collaborate on any challenging project.
+- 💬 I’m looking to enter the job market as a programmer
+- 📫 How to reach me: mauro.quintana@bootcamp-upgrade.com 
+
+
+LET'S CODEE
+[me](https://github.com/Mauzoom03/Mauzoom03/assets/144534466/f3ac5537-ed0c-4210-a97a-e9684eb37581)
+
