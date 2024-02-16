@@ -1,6 +1,6 @@
 ### Welcome to my Projects 👋
 
-- 🌱 I’m currently studying at UpgradeHub Academy .
+- 🌱 I’m consolidated at UpgradeHub Academy .
 - 👯 I’m looking to collaborate on any challenging project.
 - 💬 I’m looking to enter the job market as a programmer
 - 📫 How to reach me: mauro.quintana@bootcamp-upgrade.com 
