@@ -3,7 +3,7 @@
 - 🌱 I’m consolidated at UpgradeHub Academy .
 - 👯 I’m looking to collaborate on any challenging project.
 - 💬 I’m looking to enter the job market as a programmer
-- 📫 How to reach me: mauro.quintana@bootcamp-upgrade.com 
+- 📫 How to reach me: mauroquintanadeveloper@gmail.com 
 
 
 LET'S CODE:
